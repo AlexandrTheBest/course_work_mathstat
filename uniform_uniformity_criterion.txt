@@ -1,0 +1,100 @@
+n =      5 | m =      5 | D = 0.0000 | t = 0.8601 | Not reject.
+n =      5 | m =     10 | D = 0.6000 | t = 0.7449 | Not reject.
+n =      5 | m =    100 | D = 0.8400 | t = 0.6232 | Reject.
+n =      5 | m =    200 | D = 0.7750 | t = 0.6158 | Reject.
+n =      5 | m =    400 | D = 0.7525 | t = 0.6120 | Reject.
+n =      5 | m =    600 | D = 0.7567 | t = 0.6107 | Reject.
+n =      5 | m =    800 | D = 0.7738 | t = 0.6101 | Reject.
+n =      5 | m =   1000 | D = 0.7760 | t = 0.6097 | Reject.
+n =      5 | m =  20000 | D = 0.7677 | t = 0.6083 | Reject.
+n =      5 | m = 100000 | D = 0.7732 | t = 0.6082 | Reject.
+n =     10 | m =      5 | D = 0.6000 | t = 0.7449 | Not reject.
+n =     10 | m =     10 | D = 0.0000 | t = 0.6082 | Not reject.
+n =     10 | m =    100 | D = 0.3100 | t = 0.4511 | Not reject.
+n =     10 | m =    200 | D = 0.2300 | t = 0.4407 | Not reject.
+n =     10 | m =    400 | D = 0.2400 | t = 0.4354 | Not reject.
+n =     10 | m =    600 | D = 0.2283 | t = 0.4336 | Not reject.
+n =     10 | m =    800 | D = 0.2475 | t = 0.4327 | Not reject.
+n =     10 | m =   1000 | D = 0.2340 | t = 0.4322 | Not reject.
+n =     10 | m =  20000 | D = 0.2361 | t = 0.4302 | Not reject.
+n =     10 | m = 100000 | D = 0.2367 | t = 0.4301 | Not reject.
+n =    100 | m =      5 | D = 0.8400 | t = 0.6232 | Reject.
+n =    100 | m =     10 | D = 0.3100 | t = 0.4511 | Not reject.
+n =    100 | m =    100 | D = 0.0000 | t = 0.1923 | Not reject.
+n =    100 | m =    200 | D = 0.0950 | t = 0.1666 | Not reject.
+n =    100 | m =    400 | D = 0.1025 | t = 0.1521 | Not reject.
+n =    100 | m =    600 | D = 0.1017 | t = 0.1469 | Not reject.
+n =    100 | m =    800 | D = 0.0837 | t = 0.1442 | Not reject.
+n =    100 | m =   1000 | D = 0.0910 | t = 0.1426 | Not reject.
+n =    100 | m =  20000 | D = 0.0899 | t = 0.1363 | Not reject.
+n =    100 | m = 100000 | D = 0.0854 | t = 0.1361 | Not reject.
+n =    200 | m =      5 | D = 0.7750 | t = 0.6158 | Reject.
+n =    200 | m =     10 | D = 0.2300 | t = 0.4407 | Not reject.
+n =    200 | m =    100 | D = 0.0950 | t = 0.1666 | Not reject.
+n =    200 | m =    200 | D = 0.0000 | t = 0.1360 | Not reject.
+n =    200 | m =    400 | D = 0.0800 | t = 0.1178 | Not reject.
+n =    200 | m =    600 | D = 0.0500 | t = 0.1110 | Not reject.
+n =    200 | m =    800 | D = 0.0400 | t = 0.1075 | Not reject.
+n =    200 | m =   1000 | D = 0.0360 | t = 0.1053 | Not reject.
+n =    200 | m =  20000 | D = 0.0498 | t = 0.0966 | Not reject.
+n =    200 | m = 100000 | D = 0.0506 | t = 0.0963 | Not reject.
+n =    400 | m =      5 | D = 0.7525 | t = 0.6120 | Reject.
+n =    400 | m =     10 | D = 0.2400 | t = 0.4354 | Not reject.
+n =    400 | m =    100 | D = 0.1025 | t = 0.1521 | Not reject.
+n =    400 | m =    200 | D = 0.0800 | t = 0.1178 | Not reject.
+n =    400 | m =    400 | D = 0.0000 | t = 0.0962 | Not reject.
+n =    400 | m =    600 | D = 0.0342 | t = 0.0878 | Not reject.
+n =    400 | m =    800 | D = 0.0550 | t = 0.0833 | Not reject.
+n =    400 | m =   1000 | D = 0.0490 | t = 0.0805 | Not reject.
+n =    400 | m =  20000 | D = 0.0455 | t = 0.0687 | Not reject.
+n =    400 | m = 100000 | D = 0.0508 | t = 0.0681 | Not reject.
+n =    600 | m =      5 | D = 0.7567 | t = 0.6107 | Reject.
+n =    600 | m =     10 | D = 0.2283 | t = 0.4336 | Not reject.
+n =    600 | m =    100 | D = 0.1017 | t = 0.1469 | Not reject.
+n =    600 | m =    200 | D = 0.0500 | t = 0.1110 | Not reject.
+n =    600 | m =    400 | D = 0.0342 | t = 0.0878 | Not reject.
+n =    600 | m =    600 | D = 0.0000 | t = 0.0785 | Not reject.
+n =    600 | m =    800 | D = 0.0375 | t = 0.0734 | Not reject.
+n =    600 | m =   1000 | D = 0.0343 | t = 0.0702 | Not reject.
+n =    600 | m =  20000 | D = 0.0245 | t = 0.0563 | Not reject.
+n =    600 | m = 100000 | D = 0.0332 | t = 0.0557 | Not reject.
+n =    800 | m =      5 | D = 0.7738 | t = 0.6101 | Reject.
+n =    800 | m =     10 | D = 0.2475 | t = 0.4327 | Not reject.
+n =    800 | m =    100 | D = 0.0837 | t = 0.1442 | Not reject.
+n =    800 | m =    200 | D = 0.0400 | t = 0.1075 | Not reject.
+n =    800 | m =    400 | D = 0.0550 | t = 0.0833 | Not reject.
+n =    800 | m =    600 | D = 0.0375 | t = 0.0734 | Not reject.
+n =    800 | m =    800 | D = 0.0000 | t = 0.0680 | Not reject.
+n =    800 | m =   1000 | D = 0.0213 | t = 0.0645 | Not reject.
+n =    800 | m =  20000 | D = 0.0207 | t = 0.0490 | Not reject.
+n =    800 | m = 100000 | D = 0.0193 | t = 0.0483 | Not reject.
+n =   1000 | m =      5 | D = 0.7760 | t = 0.6097 | Reject.
+n =   1000 | m =     10 | D = 0.2340 | t = 0.4322 | Not reject.
+n =   1000 | m =    100 | D = 0.0910 | t = 0.1426 | Not reject.
+n =   1000 | m =    200 | D = 0.0360 | t = 0.1053 | Not reject.
+n =   1000 | m =    400 | D = 0.0490 | t = 0.0805 | Not reject.
+n =   1000 | m =    600 | D = 0.0343 | t = 0.0702 | Not reject.
+n =   1000 | m =    800 | D = 0.0213 | t = 0.0645 | Not reject.
+n =   1000 | m =   1000 | D = 0.0000 | t = 0.0608 | Not reject.
+n =   1000 | m =  20000 | D = 0.0190 | t = 0.0441 | Not reject.
+n =   1000 | m = 100000 | D = 0.0200 | t = 0.0432 | Not reject.
+n =  20000 | m =      5 | D = 0.7677 | t = 0.6083 | Reject.
+n =  20000 | m =     10 | D = 0.2361 | t = 0.4302 | Not reject.
+n =  20000 | m =    100 | D = 0.0899 | t = 0.1363 | Not reject.
+n =  20000 | m =    200 | D = 0.0498 | t = 0.0966 | Not reject.
+n =  20000 | m =    400 | D = 0.0455 | t = 0.0687 | Not reject.
+n =  20000 | m =    600 | D = 0.0245 | t = 0.0563 | Not reject.
+n =  20000 | m =    800 | D = 0.0207 | t = 0.0490 | Not reject.
+n =  20000 | m =   1000 | D = 0.0190 | t = 0.0441 | Not reject.
+n =  20000 | m =  20000 | D = 0.0000 | t = 0.0136 | Not reject.
+n =  20000 | m = 100000 | D = 0.0110 | t = 0.0105 | Reject.
+n = 100000 | m =      5 | D = 0.7732 | t = 0.6082 | Reject.
+n = 100000 | m =     10 | D = 0.2367 | t = 0.4301 | Not reject.
+n = 100000 | m =    100 | D = 0.0854 | t = 0.1361 | Not reject.
+n = 100000 | m =    200 | D = 0.0506 | t = 0.0963 | Not reject.
+n = 100000 | m =    400 | D = 0.0508 | t = 0.0681 | Not reject.
+n = 100000 | m =    600 | D = 0.0332 | t = 0.0557 | Not reject.
+n = 100000 | m =    800 | D = 0.0193 | t = 0.0483 | Not reject.
+n = 100000 | m =   1000 | D = 0.0200 | t = 0.0432 | Not reject.
+n = 100000 | m =  20000 | D = 0.0110 | t = 0.0105 | Reject.
+n = 100000 | m = 100000 | D = 0.0000 | t = 0.0061 | Not reject.

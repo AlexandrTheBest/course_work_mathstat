@@ -1,0 +1,5 @@
+Alpha = 0.100 | Beta = 0.100 | min(n) = 6     
+Alpha = 0.050 | Beta = 0.050 | min(n) = 10    
+Alpha = 0.020 | Beta = 0.020 | min(n) = 16    
+Alpha = 0.010 | Beta = 0.010 | min(n) = 20    
+Alpha = 0.005 | Beta = 0.005 | min(n) = 25    
